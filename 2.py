@@ -14,6 +14,7 @@ class FONT:
 ESC = '\x1b'
 RED = ESC + '[31m'
 GREEN = ESC + '[32m'
+print("что за пидор на моём рабочем месте")
 
 TIKTOK_URL = 'https://www.tiktok.com/@'  # URL format for TikTok usernames
 TELCODE = '@example_username'  # Replace with the target TikTok username
